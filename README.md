@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Repository for Learning Docker, Kubernetes, and CI/CD
 
 This repository is dedicated to exploring containerization, orchestration, and continuous integration/continuous delivery (CI/CD) pipelines. It includes the following key components:
@@ -27,3 +28,6 @@ This repository is dedicated to exploring containerization, orchestration, and c
 
 ### Goal
 JobHunt facilitates access to remote job listings and supports the application process.
+=======
+# CloudComputing
+>>>>>>> bc2468c6617c03a36409ceace0f81215e3029a72
